@@ -1,0 +1,137 @@
+jaki jest ulubiony horror frontendowców? ; Freddy kontra JSON
+a wiecie o co prosi programista w sklepie z pościelą? ; o code review
+co robi komponent, który zmienia DOM? ; remount
+a wiecie jaka jest ulubiona zupa google chrome'a? ; RAMen
+a kto w zespole pamięta wszystkie wersje piosenek? ; GITarzysta
+o co pyta react developer w domu swojej byłem żony? ; J S X
+dlaczego backend w javascripcie jest niestabilny? ; bo stoi na jednym nodzie
+co robi scrum master po sprincie? ; myje jiry
+kogo nigdy nie słychać na wideo konferencjach? ; zmutowanych żółwi ninja
+jakie polecenie w git'cie programiści kochaja najbardziej? ; git majonez
+dlaczego frontendowcom najłatwiej zamówić jedzenie z mc donalda? ; bo mają hamburger menu
+co robi nastoletni programista, gdy mama nie patrzy ; pulluje mastera
+dlaczego nowa składnia jsa została doceniona przez środowisko łuczników ; bo prowadziła arrow functions
+co frontendowiec mówi do konia? ; Wiśta vue
+dlaczego developer jak odpala inspektor kodu, to puka w ekran? ; bo wchodzi do DOMu
+dlaczego nauczyciele to kiepscy programiści? ; bo korzystają tylko z tablic
+dlaczego frontendowiec wchodzi do opery? ; żeby pooglądać divy
+jak się nazywa stolica wszystkich błędów? ; bugdat
+wiecie kim byłaby fava, gdyby pracowała w IT? ; devopsem
+wiecie kto jest ulubionym królem frontendowców? ; August III SASS
+wiecie jaki jest ulubiony pies frontendowca? ; <span>iel
+jaki jest ulubiony język programowania płazów? ; żabascript
+wiecie jaki jest zorientowany obiektowo sposób na zarabianie pieniędzy? ; dziedziczenie
+jaka jest ulubiona część litniska dla programisty? ; terminal
+co frontendowcowi sterczy z nosa? ; babel
+jak się nazywa błąd związany z wyświetlaniem elementów w przeglądarce microsoftu? ; edge case
+co informatyk ma długiego i mowią, że nie da się tego złamać? ; hasło do kompa
+co mówi ksiądz na ślubie informatyka? ; pobieranie zakończone
+co bierze informatyk na turniej rycerski? ; kopię zapasową
+jaki jest mój ulubiony element na stronach internetowych? ; favicona
+przy czym najczęściej programista pomaga w domu? ; przy parsowaniu
+jaki jest ulubiony serial programistów? ; opowieści, skrypty
+wiecie co jest dla mnie najważniejsze w tworzeniu stron? ; józef expierience
+o której programista zaczyna pracę? ; od devontej
+jaki nadmorski kurort web developerzy lubią najbardziej? ; Łeba
+jaka jest ulubiona kolęda front-endowca? ; li li li li laj
+co śpiewa developer, który szuka błędu? ; chcę oglądać twoje logi, logi, logi, logi
+jaka jest ulubiona rasa psa frontendowca? ; border color
+jaka jest ulubiona ryba programisty? ; PSTRING
+ulubione zwierze pmów? ; JIRAffa
+co najbardziej pociąga studentów architektury? ; Block chain
+kto najlepiej zna się na AWSie? ; Marian Krzaklewski
+jaka jest ulubiona baza Chingis Hana? ; Mongo DB
+jak nazywa się zespół Seattle grający rocka kryptograficznego? ; Alice in blockchains
+jaka jest ulubiona maść administratorów? ; sudocrem
+w jakim kraju są najbardziej doświadczenie developerzy? ; W meksyku, bo tam każdy to senior
+jaka metoda HTTP jest najczęście używana przez Wielką Nocą? ; POST
+najpopularniejsze zagadnienie informatyczne wśród drobiu? ; reKUREncja
+widzicie to, zobaczcie ; no to jest szczyt
+jaka jest ulubiona część ciała front-endowca? ; web
+jak się nazywa udawany buziak? ; cmockup
+jaką chatę buduje front-endowiec? ; HTML
+jaki jest najmniej lubiany superbohater programistów? ; refactor
+co najbardziej przeraża front-endowców? ; nawiedzony dom
+najbardziej pomocny bohater horrorów? ; debugiman
+ulubiona muzyka glonojadów? ; algo-rytmy
+ulubiona piosenka rails-rowców? ; ruby ruby ruby rydz
+ulubiony przebój servesslessowców? ; AWS lambada
+dlaczego psychiatrzy się znają na internecie? ; bo wiedzą jak działa łeb
+po czym poznać, że kod jest czysty? ; po tym że się myje
+ulubiony aktor front-endowców ; jquery
+zagadka. w internecie leje wodę. ; e-kran
+jaki jest mój ulubiony hook w reactcie? ; use-eff
+oglądam nowy serial ostatnio ; opowieści pamięci podręcznej
+ulubiony sport użytkownika gita? ; squash
+jaki jest najgorszy rodzaj pecha? ; PHP
+wiecie jaki jest teraz problem na frontendzie, że każda aplikacja ma być spa, uparli się ; ale chyba znalazłem u Anii w szafce lekarstwo na to - NO SPA
+ulubiona bajka node developerów? ; Nadjeżdża Noddy, klaksonem wita nas
+co tańczy developer naprawiający błędy? ; woogie boogie
+ulubiona biblioteka egzorcystów? ; Nodemon, albo no demon
+dlaczego backendowcy to leniuchy? ; Bo ciągle robią REST
+co programista ma wspólnego z małpą? ; oboje pracują na branchach
+co robi pies programisty na spacerze? ; Fetchuje brancha
+co łączy typescript i siłownię? ; Tu i tu są silne typy
+gdzie programiści zbierają grzyby? ; W serverlessie
+jak nazywałby się dzisiaj various manx? ; letious manx
+jak się nazywa najlepszy JSON? ; Jason Born
+kto najczęściej korzysta z console loga? ; Log Lady
+co programiści gotują na obiad? ; bURLial
+what do we get, when we add Heidi Klum to Mohammed Ali? ; A box-mortadella
+w którym kraju programują najgorzej? ; we Włoszech, bo ciągle piszą spaghetti
+co mówi osoba, która żegna się z węglodanami? ; Carbonara
+śniadaniowa impreza programistów? ; Branch
+w Australii ostatnio nowy framework zrobili, wiecie jak się nazywa? ; Kangular
+jak się nazywa dziedzina data science dla leniwych ludzi? ; Data spokój
+jaki system operacyjny funkcjonuje w windach? ; Windows
+czego fani Apple'a jedzą w święta najwięcej? ; Mac'owca
+co mówi właściciel sklepu z artylerią? ; u mnie działa
+wymyśliłem ostatnio nowy sport, boks z elementami joby; nazywa się flexbox
+jak psy coś potrafią to każdy wie, że to jest ich know-how ; ale mało kto wie, że koty mają swoje know-meow
+ulubiony reżyser kosmitów? ; Woody Alien
+wkurzona dziewczyna pyta programisty, co wybierasz wyjście do kina czy edytor kodu? ; A on mówi: IDE
+ulubiona konstelacja Janusza i Grażyny? ; Pas Oniona
+ulubiony framework jaszczurek? ; Gadsby
+gdzie front-endowcy spędzają wczasy? ; W SPA
+ostatnio mówiłem, że front-endowcy spędzają czasy w spa; To ci bogatsi, a ci biedniejsi w dormitorium
+kto jest największym przeciwnikiem używania constów? ; Constantyn
+wiecie kto przetwarzał dane osobowe w Śródziemiu? ; Rodo Baggins
+do jakiego dormitorium uczniowie hogwardu kierowi są na kwarantannę ; Do grypindoru
+wiecie jak się nazywa najśmieszniejsza aplikacja na świecie? ; Adobe XD
+ulubiony film sys-adminów? ; terminal
+ulubiona bajka project managerów? ; gdzie jest demo?
+wiecie co łączy programistów i policjantów? ; komendy
+wiecie co developer ma po lewej stronie klatki piersiowej? ; s r c
+programista został skazany, trafił do więzenia i po paru dniach pobytu pisze do żony ; nie jest tak źle, przynajmniej są klawisze
+wiecie jaką bajkę najbardziej lubiłem w dzieciństwie? ; Rumca.JS
+rodzice alergików zostali zapytani jak często dzieci mają katar? ; Matka odpowiada: córka ma sezonowo, a syn chronicznie
+wiecie co robią developerzy kiedy potrzebują czułości? ; zwiększają czułość myszki
+jak sie nazywa ruby developer na wczasach? ; Ruby on Rejs
+jakiego języka programowania uczą się fani reggae? ; Rusta
+jak się nazywa błąd w norwerskiej przeglądarce? ; Upiór w operze
+ulubiona drużyna frontendowców ; Ajax Amsterdam
+co śpiewają go developerzy przez pracą; Wake me up before you go go
+wiecie co piekarz robi na siłowni? ; Zakwasy
+jakich cukierków nie lubią developerzy? ; Malaga
+dlaczego warto na siłownię chodzić we dwójkę? ; Bo do sztanga trzeba dwojga
+jak sie nazywa mid-developer z Zakopanego? ; regóral
+dlaczego pm znają się na napojach gazowanych? ; bo codziennie robią calle
+co łączy zółwie ninja i wkurwionych ludzi na slacku? ; wychodzą z kanału
+jak się nazywa developer, który ciągle robi sobię bekę? ; Backendowiec
+wiecie jakiego rodzaju wykresu nie lubię kodzić? ; Pie Chartów
+na jakiej stacji tankują devopsi? ; Na Shellu
+ulubiona zupa Francuzów? ; Bon Żurek
+Mozzarella, mortadella, tarantella, ecco la per me ; Zuppa Romana
+a ile trwało najkrótsze zlecenie dla designera? ; A dobe
+jak się nazywa najstarszy człowiek stojący przy garach? ; Gary Oldman
+wiecie jakiej postaci z Mortal Combat najbardziej nie lubią YouTuberzy? ; Sub Zero
+wiecie jak się nazywa najpopularniejszy web master na świecie? ; Peter Parker
+dlaczego front-endowcy zawsze wyglądają tak młodo? ; Bo robią dużo SPA
+wiecie jaki jest ulubiony film kotów? ; W jak Wędeczka
+dlaczego devopsi kupują nabiał u Weroniki? ; Bo lubią ser Wery
+ulubiona piosenka front-endowców? ; Mój dom, w którym piszę od lat, mój dom, w którym płaczę nie raz, czy to znasz? to znasz?
+jak czesi mówią na niewielkie elementy w HTMLu? ; maledivy
+jak ma na imię syn JavaScriptu? ; JSON
+jak nazywamy sytuację, w której ktoś bardzo źle ostylował diva ; diviacja
+co devopsi kupują na odpuście w licheniu? ; devopsjonalja
+kanapka z dużą rybą i ogórkiem ; orka na ogórze
