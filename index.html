@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <style>
+      body {
+      }
+      .swing {
+        animation: swing ease-in-out 1s infinite alternate;
+        transform-origin: center -30px;
+        float: left;
+      }
+      .swing img {
+        display: block;
+      }
+      .swing:after {
+        content: "";
+        position: absolute;
+        width: 20px;
+        height: 20px;
+        top: -10px;
+        left: 50%;
+        z-index: 0;
+        border-bottom: none;
+        border-right: none;
+        transform: rotate(45deg);
+      }
+      /* nail */
+      .swing:before {
+        content: "";
+        position: absolute;
+        width: 5px;
+        height: 5px;
+        top: -14px;
+        left: 54%;
+        z-index: 5;
+        border-radius: 50% 50%;
+      }
+
+      @keyframes swing {
+        0% {
+          transform: rotate(5deg);
+        }
+        100% {
+          transform: rotate(-5deg);
+        }
+      }
+    </style>
+  </head>
+  <body>
+    <figure class="swing">
+      <img src="img/roman.png" width="200" />
+    </figure>
+  </body>
+</html>
