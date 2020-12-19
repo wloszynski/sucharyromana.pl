@@ -135,3 +135,5 @@ jak ma na imię syn JavaScriptu? ; JSON
 jak nazywamy sytuację, w której ktoś bardzo źle ostylował diva ; diviacja
 co devopsi kupują na odpuście w licheniu? ; devopsjonalja
 kanapka z dużą rybą i ogórkiem ; orka na ogórze
+ulubiony samochód qa'ów ; buggati
+jak wystraszyć react developera? ; hookiem
