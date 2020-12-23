@@ -325,19 +325,23 @@ const writeText = (phrase, elementName) => {
 
 const printingJoke = () => {
   const number = Math.floor(Math.random() * answer.length);
-  console.log(number);
+
   pQuestion.textContent = pAnswer.textContent = "";
   document.querySelector(".content__logo").style.visibility = "hidden";
   document.querySelector(".content__logo").style.left = "0%";
+
   setTimeout(() => {
     document.querySelector(".content__logo").style.visibility = "visible";
     document.querySelector(".content__logo").style.left = "88%";
   }, 5000);
 
   writeText([question[number]], ".content__question");
+  console.log([question[number]].length);
+  console.log();
+
   setTimeout(
     writeText.bind(undefined, [answer[number]], ".content__answer"),
-    7000
+    question[number].length * 100 + 3000
   );
 };
 

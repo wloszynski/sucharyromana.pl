@@ -137,7 +137,8 @@
     transition: all 5s;
     visibility: hidden;
   }
-  &__question::after {
+  &__question::after,
+  &__answer::after {
     content: "";
     display: inline-block;
     margin-left: 3px;
@@ -146,12 +147,13 @@
     animation-duration: 0.5s;
     animation-iteration-count: infinite;
   }
+
   &__question::after {
     height: 24px;
     width: 13px;
   }
   &__answer::after {
-    height: 13px;
-    width: 6px;
+    height: 24px;
+    width: 0px;
   }
 }

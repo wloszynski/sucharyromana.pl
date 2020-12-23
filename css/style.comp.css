@@ -227,7 +227,7 @@ body {
     left: 0;
     transition: all 5s;
     visibility: hidden; }
-  .content__question::after {
+  .content__question::after, .content__answer::after {
     content: "";
     display: inline-block;
     margin-left: 3px;
@@ -239,5 +239,5 @@ body {
     height: 24px;
     width: 13px; }
   .content__answer::after {
-    height: 13px;
-    width: 6px; }
+    height: 24px;
+    width: 0px; }
