@@ -2,6 +2,7 @@
   height: 6rem;
   width: 6rem;
   margin-right: 2rem;
+  fill: $color-black;
 
   @include respond(phone) {
     // height: 3rem;

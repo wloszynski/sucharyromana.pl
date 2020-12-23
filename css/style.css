@@ -121,7 +121,8 @@ body {
 .icon {
   height: 6rem;
   width: 6rem;
-  margin-right: 2rem; }
+  margin-right: 2rem;
+  fill: black; }
 
 .root {
   height: 100vh;
