@@ -1,4 +1,10 @@
 .icon {
   height: 6rem;
   width: 6rem;
+  margin-right: 2rem;
+
+  @include respond(tab-port) {
+    height: 6rem;
+    width: 6rem;
+  }
 }

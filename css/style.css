@@ -1,3 +1,16 @@
+/*
+0-600px: Phone
+600px-900px: Tablet portrait
+900px-1200px: Table landscape
+1200px-1800px: Desktop
+*/
+/*
+phone
+tab-port
+tab-land
+big-desktop
+
+*/
 @keyframes blink {
   0% {
     opacity: 1; }
@@ -17,6 +30,9 @@
 
 html {
   font-size: 62.5%; }
+  @media only screen and (max-width: 56.25em) {
+    html {
+      font-size: 52.5%; } }
 
 body {
   box-sizing: border-box; }
@@ -66,6 +82,9 @@ body {
   position: relative;
   background-color: transparent;
   z-index: 1;
+  font-family: "Inconsolata", "Deja Vu Sans Mono", "Consolas", "Monaco", "Courier";
+  text-transform: uppercase;
+  letter-spacing: 2px;
   cursor: pointer;
   transition: all 0.3s; }
   .btn::before {
@@ -92,16 +111,25 @@ body {
   .btn:hover::after {
     transform: translate(-0.6rem, 0.6rem); }
 
+@media only screen and (max-width: 56.25em) {
+  #btnRom::before {
+    background-color: #ffd829; } }
+
 .icon {
   height: 6rem;
-  width: 6rem; }
+  width: 6rem;
+  margin-right: 2rem; }
+  @media only screen and (max-width: 56.25em) {
+    .icon {
+      height: 6rem;
+      width: 6rem; } }
 
 .root {
   height: 100vh;
   width: 100vw;
   background-color: #f2f2f2;
   background-image: linear-gradient(120deg, white, white 50%, #ffd829 50%, #ffd829);
-  padding: 0 5rem;
+  padding: 0 2rem;
   display: flex;
   flex-direction: column;
   align-content: center; }
@@ -118,6 +146,10 @@ body {
     margin: auto 0;
     display: inline-block;
     height: 5rem; }
+  .nav a:link,
+  .nav a:visited {
+    text-decoration: none;
+    color: black; }
 
 .content {
   height: 90vh;
@@ -133,6 +165,9 @@ body {
     flex-direction: column;
     box-shadow: 0 0.8em 1.5em rgba(51, 51, 51, 0.6), 0 0.5em 2em rgba(51, 51, 51, 0.6);
     border-radius: 0.5em; }
+    @media only screen and (max-width: 75em) {
+      .content__joke-box {
+        width: 88vw; } }
   .content__bar {
     padding: 0.5em;
     flex: 0 0 auto;
@@ -177,6 +212,9 @@ body {
       background: transparent;
       color: #fdfdfd; }
   .content__question {
+    color: white;
+    font-size: 3rem; }
+  .content__answer {
     color: white;
     font-size: 3rem; }
   .content__line {

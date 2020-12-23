@@ -10,7 +10,7 @@
     $color-primary
   );
 
-  padding: 0 5rem;
+  padding: 0 2rem;
   display: flex;
   flex-direction: column;
   align-content: center;
@@ -28,6 +28,11 @@
     margin: auto 0;
     display: inline-block;
     height: 5rem;
+  }
+  a:link,
+  a:visited {
+    text-decoration: none;
+    color: black;
   }
 }
 
@@ -49,6 +54,10 @@
     box-shadow: 0 0.8em 1.5em rgba(51, 51, 51, 0.6),
       0 0.5em 2em rgba(51, 51, 51, 0.6);
     border-radius: 0.5em;
+
+    @include respond(tab-land) {
+      width: 88vw;
+    }
   }
   &__bar {
     padding: 0.5em;
@@ -109,6 +118,10 @@
     }
   }
   &__question {
+    color: $color-white;
+    font-size: 3rem;
+  }
+  &__answer {
     color: $color-white;
     font-size: 3rem;
   }
