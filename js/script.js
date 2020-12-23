@@ -117,7 +117,7 @@ let question = [
   "jakiego języka programowania uczą się fani reggae? ",
   "jak się nazywa błąd w norwerskiej przeglądarce? ",
   "ulubiona drużyna frontendowców ",
-  "co śpiewają\xa0go developerzy przez pracą",
+  "co śpiewają go developerzy przez pracą",
   "wiecie co piekarz robi na siłowni? ",
   "jakich cukierków nie lubią developerzy? ",
   "dlaczego warto na siłownię chodzić we dwójkę? ",
@@ -324,6 +324,7 @@ const writeText = (phrase, elementName) => {
 };
 
 const printingJoke = () => {
+  document.querySelector(".content__btn").style.pointerEvents = "none";
   const number = Math.floor(Math.random() * answer.length);
 
   pQuestion.textContent = pAnswer.textContent = "";
@@ -345,6 +346,10 @@ const printingJoke = () => {
     writeText.bind(undefined, [answer[number]], ".content__answer"),
     question[number].length * 100 + 3000
   );
+
+  setTimeout(() => {
+    document.querySelector(".content__btn").style.pointerEvents = "auto";
+  }, question[number].length * 100 + 2000);
 };
 
 btnJoke.addEventListener("click", printingJoke);

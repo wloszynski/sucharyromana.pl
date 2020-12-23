@@ -33,6 +33,9 @@ html {
   @media only screen and (max-width: 56.25em) {
     html {
       font-size: 52.5%; } }
+  @media only screen and (max-width: 37.5em) {
+    html {
+      font-size: 41%; } }
 
 body {
   box-sizing: border-box; }
@@ -118,11 +121,8 @@ body {
 .icon {
   height: 6rem;
   width: 6rem;
-  margin-right: 2rem; }
-  @media only screen and (max-width: 56.25em) {
-    .icon {
-      height: 6rem;
-      width: 6rem; } }
+  margin-right: 2rem;
+  fill: black; }
 
 .root {
   height: 100vh;
@@ -158,8 +158,8 @@ body {
   align-items: center;
   justify-content: center; }
   .content__joke-box {
-    width: 40vw;
-    height: 45vh;
+    width: 90rem;
+    height: 45rem;
     overflow: hidden;
     display: flex;
     flex-direction: column;
@@ -167,7 +167,8 @@ body {
     border-radius: 0.5em; }
     @media only screen and (max-width: 75em) {
       .content__joke-box {
-        width: 88vw; } }
+        width: 88vw;
+        height: 60rem; } }
   .content__bar {
     padding: 0.5em;
     flex: 0 0 auto;
@@ -218,12 +219,11 @@ body {
     color: white;
     font-size: 3rem; }
   .content__line {
-    height: 14rem;
-    width: 100%;
+    height: 10rem;
+    width: 90%;
     position: relative; }
   .content__logo {
     position: absolute;
-    top: 3rem;
     left: 0;
     transition: all 5s;
     visibility: hidden; }
