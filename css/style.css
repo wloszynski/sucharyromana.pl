@@ -1,3 +1,13 @@
+@keyframes blink {
+  0% {
+    opacity: 1; }
+  49% {
+    opacity: 1; }
+  50% {
+    opacity: 0; }
+  100% {
+    opacity: 0; } }
+
 *,
 *::before,
 *::after {
@@ -104,6 +114,10 @@ body {
   align-content: center;
   position: relative;
   height: 10vh; }
+  .nav__logo {
+    margin: auto 0;
+    display: inline-block;
+    height: 5rem; }
 
 .content {
   height: 90vh;
@@ -151,3 +165,41 @@ body {
           background: #fdbd34; }
         .content__bar .buttons .button:nth-child(3) {
           background: #23c944; }
+  .content__terminal {
+    padding: 0.4em;
+    flex: 1 1 auto;
+    background: #243238; }
+    .content__terminal p {
+      display: block;
+      font-family: "Inconsolata", "Deja Vu Sans Mono", "Consolas", "Monaco", "Courier";
+      outline: none;
+      border: none;
+      background: transparent;
+      color: #fdfdfd; }
+  .content__question {
+    color: white;
+    font-size: 3rem; }
+  .content__line {
+    height: 14rem;
+    width: 100%;
+    position: relative; }
+  .content__logo {
+    position: absolute;
+    top: 3rem;
+    left: 0;
+    transition: all 5s;
+    visibility: hidden; }
+  .content__question::after {
+    content: "";
+    display: inline-block;
+    margin-left: 3px;
+    background-color: white;
+    animation-name: blink;
+    animation-duration: 0.5s;
+    animation-iteration-count: infinite; }
+  .content__question::after {
+    height: 24px;
+    width: 13px; }
+  .content__answer::after {
+    height: 13px;
+    width: 6px; }

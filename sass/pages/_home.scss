@@ -23,6 +23,12 @@
   align-content: center;
   position: relative;
   height: 10vh;
+
+  &__logo {
+    margin: auto 0;
+    display: inline-block;
+    height: 5rem;
+  }
 }
 
 .content {
@@ -43,17 +49,6 @@
     box-shadow: 0 0.8em 1.5em rgba(51, 51, 51, 0.6),
       0 0.5em 2em rgba(51, 51, 51, 0.6);
     border-radius: 0.5em;
-
-    // background-color: $color-black;
-    // width: 50vw;
-    // height: 50vh;
-    // text-align: center;
-
-    // box-shadow: 0.5rem 0.5rem 0.5rem rgba($color-black, 0.5);
-
-    // &__cursor {
-    //   font-size: 3rem;
-    // }
   }
   &__bar {
     padding: 0.5em;
@@ -97,5 +92,53 @@
         }
       }
     }
+  }
+  &__terminal {
+    padding: 0.4em;
+    flex: 1 1 auto;
+    background: #243238;
+
+    p {
+      display: block;
+      font-family: "Inconsolata", "Deja Vu Sans Mono", "Consolas", "Monaco",
+        "Courier";
+      outline: none;
+      border: none;
+      background: transparent;
+      color: #fdfdfd;
+    }
+  }
+  &__question {
+    color: $color-white;
+    font-size: 3rem;
+  }
+  &__line {
+    height: 14rem;
+    width: 100%;
+    position: relative;
+  }
+  &__logo {
+    position: absolute;
+    top: 3rem;
+    left: 0;
+    transition: all 5s;
+    visibility: hidden;
+  }
+  &__question::after {
+    content: "";
+    display: inline-block;
+    margin-left: 3px;
+    background-color: white;
+    animation-name: blink;
+    animation-duration: 0.5s;
+    animation-iteration-count: infinite;
+  }
+  &__question::after {
+    height: 24px;
+    width: 13px;
+  }
+  &__answer::after {
+    height: 13px;
+    width: 6px;
   }
 }
