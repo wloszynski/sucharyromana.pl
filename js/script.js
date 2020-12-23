@@ -28,7 +28,7 @@ let question = [
   "wiecie jaki jest ulubiony pies frontendowca? ",
   "jaki jest ulubiony język programowania płazów? ",
   "wiecie jaki jest zorientowany obiektowo sposób na zarabianie pieniędzy? ",
-  "jaka jest ulubiona część litniska dla programisty? ",
+  "jaka jest ulubiona część lotniska dla programisty? ",
   "co frontendowcowi sterczy z nosa? ",
   "jak się nazywa błąd związany z wyświetlaniem elementów w przeglądarce microsoftu? ",
   "co informatyk ma długiego i mowią, że nie da się tego złamać? ",

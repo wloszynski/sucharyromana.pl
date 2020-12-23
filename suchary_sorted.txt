@@ -21,7 +21,7 @@ wiecie kto jest ulubionym królem frontendowców? ; August III SASS
 wiecie jaki jest ulubiony pies frontendowca? ; <span>iel
 jaki jest ulubiony język programowania płazów? ; żabascript
 wiecie jaki jest zorientowany obiektowo sposób na zarabianie pieniędzy? ; dziedziczenie
-jaka jest ulubiona część litniska dla programisty? ; terminal
+jaka jest ulubiona część lotniska dla programisty? ; terminal
 co frontendowcowi sterczy z nosa? ; babel
 jak się nazywa błąd związany z wyświetlaniem elementów w przeglądarce microsoftu? ; edge case
 co informatyk ma długiego i mowią, że nie da się tego złamać? ; hasło do kompa
