@@ -3,15 +3,56 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Document</title>
+    <title>suchary romana</title>
+    <link rel="preconnect" href="https://fonts.gstatic.com" />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Questrial&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="preconnect" href="https://fonts.gstatic.com" />
+    <link
+      href="https://fonts.googleapis.com/css2?family=David+Libre:wght@400;500;700&display=swap"
+      rel="stylesheet"
+    />
     <link rel="stylesheet" href="./css/style.css" />
   </head>
   <body>
-    <!-- <figure class="swing">
-      <img src="img/roman.png" width="200" />
-    </figure> -->
-    <nav>
-      <button id="kolejny-sucharek">da</button>
-    </nav>
+    <div class="root">
+      <div class="nav">
+        <div class="nav__icon">
+          <a href="#">
+            <svg class="icon">
+              <use xlink:href="./img/flat_sprite.svg#github" />
+            </svg>
+          </a>
+
+          <a href="#">
+            <svg class="icon">
+              <use xlink:href="./img/flat_sprite.svg#linkedin-logo" />
+            </svg>
+          </a>
+        </div>
+        <a class="btn nav__btn">odwiedź Romana</a>
+      </div>
+      <main class="content">
+        <!-- <img src="./img/roman.png" alt="roman" class="content__logo" /> -->
+        <div
+          class="content__joke-box u-margin-bottom-medium u-margin-top-medium"
+        >
+          <div class="content__bar">
+            <div class="buttons">
+              <div class="button"></div>
+              <div class="button"></div>
+              <div class="button"></div>
+            </div>
+            <span class="title">suchary@helloroman: ~</span>
+          </div>
+        </div>
+        <div class="">
+          <a class="btn nav__btn">kolejny sucharek</a>
+        </div>
+      </main>
+    </div>
+    <script src="./js/script.js"></script>
   </body>
 </html>
