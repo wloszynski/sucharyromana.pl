@@ -348,7 +348,7 @@ const printingJoke = () => {
 
   setTimeout(
     writeText.bind(undefined, [answer[number]], ".content__answer"),
-    question[number].length * 100 + 3000
+    question[number].length * 100 + 2000
   );
 
   setTimeout(() => {
