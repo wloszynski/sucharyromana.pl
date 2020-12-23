@@ -103,7 +103,7 @@ let question = [
   "ostatnio mówiłem, że front-endowcy spędzają czasy w spa",
   "kto jest największym przeciwnikiem używania constów? ",
   "wiecie kto przetwarzał dane osobowe w Śródziemiu? ",
-  "do jakiego dormitorium uczniowie hogwardu kierowi są na kwarantannę ",
+  "do jakiego dormitorium uczniowie hogwardu kierowani są na kwarantannę ",
   "wiecie jak się nazywa najśmieszniejsza aplikacja na świecie? ",
   "ulubiony film sys-adminów? ",
   "ulubiona bajka project managerów? ",
@@ -328,15 +328,19 @@ const printingJoke = () => {
   const number = Math.floor(Math.random() * answer.length);
 
   pQuestion.textContent = pAnswer.textContent = "";
-  document.querySelector(".content__logo").style.visibility = "hidden";
-  document.querySelector(".content__logo").style.left = "0%";
-  document.querySelector(".content__logo").style.transform = "scaleX(1)";
+  // document.querySelector(".content__logo").style.visibility = "hidden";
+  // document.querySelector(".content__logo").style.left = "0%";
+  // document.querySelector(".content__logo").style.transform = "scaleX(1)";
 
-  setTimeout(() => {
-    document.querySelector(".content__logo").style.visibility = "visible";
-    document.querySelector(".content__logo").style.left = "88%";
-    document.querySelector(".content__logo").style.transform = "scaleX(-1)";
-  }, 5000);
+  // setTimeout(() => {
+  //   document.querySelector(".content__logo").style.visibility = "visible";
+  //   document.querySelector(".content__logo").style.left = "50%";
+
+  //   document.querySelector(".content__text").style.visibility = "visible";
+  //   document.querySelector(".content__text").style.left = "60%";
+
+  //   document.querySelector(".content__logo").style.transform = "scaleX(-1)";
+  // }, 5000);
 
   writeText([question[number]], ".content__question");
   console.log([question[number]].length);
@@ -353,3 +357,5 @@ const printingJoke = () => {
 };
 
 btnJoke.addEventListener("click", printingJoke);
+
+window.addEventListener("load", printingJoke);

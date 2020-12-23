@@ -96,7 +96,7 @@ gdzie front-endowcy spędzają wczasy? ; W SPA
 ostatnio mówiłem, że front-endowcy spędzają czasy w spa; To ci bogatsi, a ci biedniejsi w dormitorium
 kto jest największym przeciwnikiem używania constów? ; Constantyn
 wiecie kto przetwarzał dane osobowe w Śródziemiu? ; Rodo Baggins
-do jakiego dormitorium uczniowie hogwardu kierowi są na kwarantannę ; Do grypindoru
+do jakiego dormitorium uczniowie hogwardu kierowani są na kwarantannę ; Do grypindoru
 wiecie jak się nazywa najśmieszniejsza aplikacja na świecie? ; Adobe XD
 ulubiony film sys-adminów? ; terminal
 ulubiona bajka project managerów? ; gdzie jest demo?

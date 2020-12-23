@@ -137,6 +137,12 @@
     transition: all 5s;
     visibility: hidden;
   }
+  &__text {
+    position: absolute;
+    left: 0;
+    transition: all 5s;
+    visibility: hidden;
+  }
   &__question::after,
   &__answer::after {
     content: "";
