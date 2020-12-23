@@ -44,8 +44,8 @@
   justify-content: center;
 
   &__joke-box {
-    width: 40vw;
-    height: 45vh;
+    width: 90rem;
+    height: 45rem;
     overflow: hidden;
 
     display: flex;
@@ -57,6 +57,7 @@
 
     @include respond(tab-land) {
       width: 88vw;
+      height: 60rem;
     }
   }
   &__bar {

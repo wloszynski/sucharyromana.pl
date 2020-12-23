@@ -35,7 +35,7 @@ html {
       font-size: 52.5%; } }
   @media only screen and (max-width: 37.5em) {
     html {
-      font-size: 40%; } }
+      font-size: 43%; } }
 
 body {
   box-sizing: border-box; }
@@ -158,8 +158,8 @@ body {
   align-items: center;
   justify-content: center; }
   .content__joke-box {
-    width: 40vw;
-    height: 45vh;
+    width: 90rem;
+    height: 45rem;
     overflow: hidden;
     display: flex;
     flex-direction: column;
@@ -167,7 +167,8 @@ body {
     border-radius: 0.5em; }
     @media only screen and (max-width: 75em) {
       .content__joke-box {
-        width: 88vw; } }
+        width: 88vw;
+        height: 60rem; } }
   .content__bar {
     padding: 0.5em;
     flex: 0 0 auto;
