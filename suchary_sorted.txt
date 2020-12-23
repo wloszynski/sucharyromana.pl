@@ -86,7 +86,7 @@ jak się nazywa dziedzina data science dla leniwych ludzi? ; Data spokój
 jaki system operacyjny funkcjonuje w windach? ; Windows
 czego fani Apple'a jedzą w święta najwięcej? ; Mac'owca
 co mówi właściciel sklepu z artylerią? ; u mnie działa
-wymyśliłem ostatnio nowy sport, boks z elementami joby; nazywa się flexbox
+wymyśliłem ostatnio nowy sport, boks z elementami jogi; nazywa się flexbox
 jak psy coś potrafią to każdy wie, że to jest ich know-how ; ale mało kto wie, że koty mają swoje know-meow
 ulubiony reżyser kosmitów? ; Woody Alien
 wkurzona dziewczyna pyta programisty, co wybierasz wyjście do kina czy edytor kodu? ; A on mówi: IDE

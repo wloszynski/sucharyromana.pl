@@ -93,7 +93,7 @@ let question = [
   "jaki system operacyjny funkcjonuje w windach? ",
   "czego fani Apple'a jedzą w święta najwięcej? ",
   "co mówi właściciel sklepu z artylerią? ",
-  "wymyśliłem ostatnio nowy sport, boks z elementami joby",
+  "wymyśliłem ostatnio nowy sport, boks z elementami jogi",
   "jak psy coś potrafią to każdy wie, że to jest ich know-how ",
   "ulubiony reżyser kosmitów? ",
   "wkurzona dziewczyna pyta programisty, co wybierasz wyjście do kina czy edytor kodu? ",
@@ -329,10 +329,12 @@ const printingJoke = () => {
   pQuestion.textContent = pAnswer.textContent = "";
   document.querySelector(".content__logo").style.visibility = "hidden";
   document.querySelector(".content__logo").style.left = "0%";
+  document.querySelector(".content__logo").style.transform = "scaleX(1)";
 
   setTimeout(() => {
     document.querySelector(".content__logo").style.visibility = "visible";
     document.querySelector(".content__logo").style.left = "88%";
+    document.querySelector(".content__logo").style.transform = "scaleX(-1)";
   }, 5000);
 
   writeText([question[number]], ".content__question");
