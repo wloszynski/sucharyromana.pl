@@ -1,0 +1,691 @@
+{
+  "jokes": [
+    {
+      "id": 1,
+      "question": "Jaki jest ulubiony horror frontendowców?",
+      "answer": "Freddy kontra JSON"
+    },
+    {
+      "id": 2,
+      "question": "A wiecie o co prosi programista w sklepie z pościelą?",
+      "answer": "o code review"
+    },
+    {
+      "id": 3,
+      "question": "Co robi komponent, który zmienia DOM?",
+      "answer": "remount"
+    },
+    {
+      "id": 4,
+      "question": "A wiecie jaka jest ulubiona zupa google chrome'a?",
+      "answer": "RAMen"
+    },
+    {
+      "id": 5,
+      "question": "A kto w zespole pamięta wszystkie wersje piosenek?",
+      "answer": "GITarzysta"
+    },
+    {
+      "id": 6,
+      "question": "O co pyta react developer w domu swojej byłem żony?",
+      "answer": "J S X"
+    },
+    {
+      "id": 7,
+      "question": "Dlaczego backend w javascripcie jest niestabilny?",
+      "answer": "bo stoi na jednym nodzie"
+    },
+    {
+      "id": 8,
+      "question": "Co robi scrum master po sprincie?",
+      "answer": "myje jiry"
+    },
+    {
+      "id": 9,
+      "question": "Kogo nigdy nie słychać na wideo konferencjach?",
+      "answer": "zmutowanych żółwi ninja"
+    },
+    {
+      "id": 10,
+      "question": "Jakie polecenie w git'cie programiści kochaja najbardziej?",
+      "answer": "git majonez"
+    },
+    {
+      "id": 11,
+      "question": "Dlaczego frontendowcom najłatwiej zamówić jedzenie z mc donalda?",
+      "answer": "bo mają hamburger menu"
+    },
+    {
+      "id": 12,
+      "question": "Co robi nastoletni programista, gdy mama nie patrzy",
+      "answer": "pulluje mastera"
+    },
+    {
+      "id": 13,
+      "question": "Dlaczego nowa składnia jsa została doceniona przez środowisko łuczników",
+      "answer": "bo prowadziła arrow functions"
+    },
+    {
+      "id": 14,
+      "question": "Co frontendowiec mówi do konia?",
+      "answer": "Wiśta vue"
+    },
+    {
+      "id": 15,
+      "question": "Dlaczego developer jak odpala inspektor kodu, to puka w ekran?",
+      "answer": "bo wchodzi do DOMu"
+    },
+    {
+      "id": 16,
+      "question": "Dlaczego nauczyciele to kiepscy programiści?",
+      "answer": "bo korzystają tylko z tablic"
+    },
+    {
+      "id": 17,
+      "question": "Dlaczego frontendowiec wchodzi do opery?",
+      "answer": "żeby pooglądać divy"
+    },
+    {
+      "id": 18,
+      "question": "Jak się nazywa stolica wszystkich błędów?",
+      "answer": "bugdat"
+    },
+    {
+      "id": 19,
+      "question": "Wiecie kim byłaby fava, gdyby pracowała w IT?",
+      "answer": "devopsem"
+    },
+    {
+      "id": 20,
+      "question": "Wiecie kto jest ulubionym królem frontendowców?",
+      "answer": "August III SASS"
+    },
+    {
+      "id": 21,
+      "question": "Wiecie jaki jest ulubiony pies frontendowca?",
+      "answer": "<span>iel"
+    },
+    {
+      "id": 22,
+      "question": "Jaki jest ulubiony język programowania płazów?",
+      "answer": "żabascript"
+    },
+    {
+      "id": 23,
+      "question": "Wiecie jaki jest zorientowany obiektowo sposób na zarabianie pieniędzy?",
+      "answer": "dziedziczenie"
+    },
+    {
+      "id": 24,
+      "question": "Jaka jest ulubiona część lotniska dla programisty?",
+      "answer": "terminal"
+    },
+    {
+      "id": 25,
+      "question": "Co frontendowcowi sterczy z nosa?",
+      "answer": "babel"
+    },
+    {
+      "id": 26,
+      "question": "Jak się nazywa błąd związany z wyświetlaniem elementów w przeglądarce microsoftu?",
+      "answer": "edge case"
+    },
+    {
+      "id": 27,
+      "question": "Co informatyk ma długiego i mowią, że nie da się tego złamać?",
+      "answer": "hasło do kompa"
+    },
+    {
+      "id": 28,
+      "question": "Co mówi ksiądz na ślubie informatyka?",
+      "answer": "pobieranie zakończone"
+    },
+    {
+      "id": 29,
+      "question": "Co bierze informatyk na turniej rycerski?",
+      "answer": "kopię zapasową"
+    },
+    {
+      "id": 30,
+      "question": "Jaki jest mój ulubiony element na stronach internetowych?",
+      "answer": "favicona"
+    },
+    {
+      "id": 31,
+      "question": "Przy czym najczęściej programista pomaga w domu?",
+      "answer": "przy parsowaniu"
+    },
+    {
+      "id": 32,
+      "question": "Jaki jest ulubiony serial programistów?",
+      "answer": "opowieści, skrypty"
+    },
+    {
+      "id": 33,
+      "question": "Wiecie co jest dla mnie najważniejsze w tworzeniu stron?",
+      "answer": "józef expierience"
+    },
+    {
+      "id": 34,
+      "question": "O której programista zaczyna pracę?",
+      "answer": "od devontej"
+    },
+    {
+      "id": 35,
+      "question": "Jaki nadmorski kurort web developerzy lubią najbardziej?",
+      "answer": "Łeba"
+    },
+    {
+      "id": 36,
+      "question": "Jaka jest ulubiona kolęda frontendowca?",
+      "answer": "li li li li laj"
+    },
+    {
+      "id": 37,
+      "question": "Co śpiewa developer, który szuka błędu?",
+      "answer": "chcę oglądać twoje logi, logi, logi, logi"
+    },
+    {
+      "id": 38,
+      "question": "Jaka jest ulubiona rasa psa frontendowca?",
+      "answer": "border color"
+    },
+    {
+      "id": 39,
+      "question": "Jaka jest ulubiona ryba programisty?",
+      "answer": "PSTRING"
+    },
+    { "id": 40, "question": "Ulubione zwierze pmów?", "answer": "JIRAffa" },
+    {
+      "id": 41,
+      "question": "Co najbardziej pociąga studentów architektury?",
+      "answer": "Block chain"
+    },
+    {
+      "id": 42,
+      "question": "Kto najlepiej zna się na AWSie?",
+      "answer": "Marian Krzaklewski"
+    },
+    {
+      "id": 43,
+      "question": "Jaka jest ulubiona baza Chingis Hana?",
+      "answer": "Mongo DB"
+    },
+    {
+      "id": 44,
+      "question": "Jak nazywa się zespół Seattle grający rocka kryptograficznego?",
+      "answer": "Alice in blockchains"
+    },
+    {
+      "id": 45,
+      "question": "Jaka jest ulubiona maść administratorów?",
+      "answer": "sudocrem"
+    },
+    {
+      "id": 46,
+      "question": "W jakim kraju są najbardziej doświadczenie developerzy?",
+      "answer": "W meksyku, bo tam każdy to senior"
+    },
+    {
+      "id": 47,
+      "question": "Jaka metoda HTTP jest najczęście używana przez Wielką Nocą?",
+      "answer": "POST"
+    },
+    {
+      "id": 48,
+      "question": "Najpopularniejsze zagadnienie informatyczne wśród drobiu?",
+      "answer": "reKUREncja"
+    },
+    {
+      "id": 49,
+      "question": "Widzicie to, zobaczcie",
+      "answer": "no to jest szczyt"
+    },
+    {
+      "id": 50,
+      "question": "Jaka jest ulubiona część ciała frontendowca?",
+      "answer": "web"
+    },
+    {
+      "id": 51,
+      "question": "Jak się nazywa udawany buziak?",
+      "answer": "cmockup"
+    },
+    {
+      "id": 52,
+      "question": "Jaką chatę buduje frontendowiec?",
+      "answer": "HTML"
+    },
+    {
+      "id": 53,
+      "question": "Jaki jest najmniej lubiany superbohater programistów?",
+      "answer": "refactor"
+    },
+    {
+      "id": 54,
+      "question": "Co najbardziej przeraża frontendowców?",
+      "answer": "nawiedzony dom"
+    },
+    {
+      "id": 55,
+      "question": "Najbardziej pomocny bohater horrorów?",
+      "answer": "debugiman"
+    },
+    {
+      "id": 56,
+      "question": "Ulubiona muzyka glonojadów?",
+      "answer": "algo-rytmy"
+    },
+    {
+      "id": 57,
+      "question": "Ulubiona piosenka rails-rowców?",
+      "answer": "ruby ruby ruby rydz"
+    },
+    {
+      "id": 58,
+      "question": "Ulubiony przebój servesslessowców?",
+      "answer": "AWS lambada"
+    },
+    {
+      "id": 59,
+      "question": "Dlaczego psychiatrzy się znają na internecie?",
+      "answer": "bo wiedzą jak działa łeb"
+    },
+    {
+      "id": 60,
+      "question": "Po czym poznać, że kod jest czysty?",
+      "answer": "po tym że się myje"
+    },
+    {
+      "id": 61,
+      "question": "Ulubiony aktor frontendowców",
+      "answer": "jquery"
+    },
+    {
+      "id": 62,
+      "question": "Zagadka. w internecie leje wodę.",
+      "answer": "e-kran"
+    },
+    {
+      "id": 63,
+      "question": "Jaki jest mój ulubiony hook w reactcie?",
+      "answer": "use-eff"
+    },
+    {
+      "id": 64,
+      "question": "Oglądam nowy serial ostatnio",
+      "answer": "opowieści pamięci podręcznej"
+    },
+    {
+      "id": 65,
+      "question": "Ulubiony sport użytkownika gita?",
+      "answer": "squash"
+    },
+    {
+      "id": 66,
+      "question": "Jaki jest najgorszy rodzaj pecha?",
+      "answer": "PHP"
+    },
+    {
+      "id": 67,
+      "question": "Wiecie jaki jest teraz problem na frontendzie, że każda aplikacja ma być spa, uparli się",
+      "answer": "ale chyba znalazłem u Anii w szafce lekarstwo na to - NO SPA"
+    },
+    {
+      "id": 68,
+      "question": "Ulubiona bajka node developerów?",
+      "answer": "Nadjeżdża Noddy, klaksonem wita nas"
+    },
+    {
+      "id": 69,
+      "question": "Co tańczy developer naprawiający błędy?",
+      "answer": "woogie boogie"
+    },
+    {
+      "id": 70,
+      "question": "Ulubiona biblioteka egzorcystów?",
+      "answer": "Nodemon, albo no demon"
+    },
+    {
+      "id": 71,
+      "question": "Dlaczego backendowcy to leniuchy?",
+      "answer": "Bo ciągle robią REST"
+    },
+    {
+      "id": 72,
+      "question": "Co programista ma wspólnego z małpą?",
+      "answer": "oboje pracują na branchach"
+    },
+    {
+      "id": 73,
+      "question": "Co robi pies programisty na spacerze?",
+      "answer": "Fetchuje brancha"
+    },
+    {
+      "id": 74,
+      "question": "Co łączy typescript i siłownię?",
+      "answer": "Tu i tu są silne typy"
+    },
+    {
+      "id": 75,
+      "question": "Gdzie programiści zbierają grzyby?",
+      "answer": "W serverlessie"
+    },
+    {
+      "id": 76,
+      "question": "Jak nazywałby się dzisiaj various manx?",
+      "answer": "letious manx"
+    },
+    {
+      "id": 77,
+      "question": "Jak się nazywa najlepszy JSON?",
+      "answer": "Jason Born"
+    },
+    {
+      "id": 78,
+      "question": "Kto najczęściej korzysta z console loga?",
+      "answer": "Log Lady"
+    },
+    {
+      "id": 79,
+      "question": "Co programiści gotują na obiad?",
+      "answer": "bURLial"
+    },
+    {
+      "id": 80,
+      "question": "What do we get, when we add Heidi Klum to Mohammed Ali?",
+      "answer": "A box-mortadella"
+    },
+    {
+      "id": 81,
+      "question": "W którym kraju programują najgorzej?",
+      "answer": "we Włoszech, bo ciągle piszą spaghetti"
+    },
+    {
+      "id": 82,
+      "question": "Co mówi osoba, która żegna się z węglodanami?",
+      "answer": "Carbonara"
+    },
+    {
+      "id": 83,
+      "question": "Śniadaniowa impreza programistów?",
+      "answer": "Branch"
+    },
+    {
+      "id": 84,
+      "question": "W Australii ostatnio nowy framework zrobili, wiecie jak się nazywa?",
+      "answer": "Kangular"
+    },
+    {
+      "id": 85,
+      "question": "Jak się nazywa dziedzina data science dla leniwych ludzi?",
+      "answer": "Data spokój"
+    },
+    {
+      "id": 86,
+      "question": "Jaki system operacyjny funkcjonuje w windach?",
+      "answer": "Windows"
+    },
+    {
+      "id": 87,
+      "question": "Czego fani Apple'a jedzą w święta najwięcej?",
+      "answer": "Mac'owca"
+    },
+    {
+      "id": 88,
+      "question": "Co mówi właściciel sklepu z artylerią?",
+      "answer": "u mnie działa"
+    },
+    {
+      "id": 89,
+      "question": "Wymyśliłem ostatnio nowy sport, boks z elementami jogi",
+      "answer": "nazywa się flexbox"
+    },
+    {
+      "id": 90,
+      "question": "Jak psy coś potrafią to każdy wie, że to jest ich know-how",
+      "answer": "ale mało kto wie, że koty mają swoje know-meow"
+    },
+    {
+      "id": 91,
+      "question": "Ulubiony reżyser kosmitów?",
+      "answer": "Woody Alien"
+    },
+    {
+      "id": 92,
+      "question": "Wkurzona dziewczyna pyta programisty, co wybierasz wyjście do kina czy edytor kodu?",
+      "answer": "A on mówi: IDE"
+    },
+    {
+      "id": 93,
+      "question": "Ulubiona konstelacja Janusza i Grażyny?",
+      "answer": "Pas Oniona"
+    },
+    {
+      "id": 94,
+      "question": "Ulubiony framework jaszczurek?",
+      "answer": "Gadsby"
+    },
+    {
+      "id": 95,
+      "question": "Gdzie frontendowcy spędzają wczasy?",
+      "answer": "W SPA"
+    },
+    {
+      "id": 96,
+      "question": "Ostatnio mówiłem, że frontendowcy spędzają czasy w spa",
+      "answer": "To ci bogatsi, a ci biedniejsi w dormitorium"
+    },
+    {
+      "id": 97,
+      "question": "Kto jest największym przeciwnikiem używania constów?",
+      "answer": "Constantyn"
+    },
+    {
+      "id": 98,
+      "question": "Wiecie kto przetwarzał dane osobowe w Śródziemiu?",
+      "answer": "Rodo Baggins"
+    },
+    {
+      "id": 99,
+      "question": "Do jakiego dormitorium uczniowie hogwardu kierowani są na kwarantannę",
+      "answer": "Do grypindoru"
+    },
+    {
+      "id": 100,
+      "question": "Wiecie jak się nazywa najśmieszniejsza aplikacja na świecie?",
+      "answer": "Adobe XD"
+    },
+    {
+      "id": 101,
+      "question": "Ulubiony film sys-adminów?",
+      "answer": "terminal"
+    },
+    {
+      "id": 102,
+      "question": "Ulubiona bajka project managerów?",
+      "answer": "gdzie jest demo?"
+    },
+    {
+      "id": 103,
+      "question": "Wiecie co łączy programistów i policjantów?",
+      "answer": "komendy"
+    },
+    {
+      "id": 104,
+      "question": "Wiecie co developer ma po lewej stronie klatki piersiowej?",
+      "answer": "s r c"
+    },
+    {
+      "id": 105,
+      "question": "Programista został skazany, trafił do więzenia i po paru dniach pobytu pisze do żony",
+      "answer": "nie jest tak źle, przynajmniej są klawisze"
+    },
+    {
+      "id": 106,
+      "question": "Wiecie jaką bajkę najbardziej lubiłem w dzieciństwie?",
+      "answer": "Rumca.JS"
+    },
+    {
+      "id": 107,
+      "question": "Rodzice alergików zostali zapytani jak często dzieci mają katar?",
+      "answer": "Matka odpowiada: córka ma sezonowo, a syn chronicznie"
+    },
+    {
+      "id": 108,
+      "question": "Wiecie co robią developerzy kiedy potrzebują czułości?",
+      "answer": "zwiększają czułość myszki"
+    },
+    {
+      "id": 109,
+      "question": "Jak sie nazywa ruby developer na wczasach?",
+      "answer": "Ruby on Rejs"
+    },
+    {
+      "id": 110,
+      "question": "Jakiego języka programowania uczą się fani reggae?",
+      "answer": "Rusta"
+    },
+    {
+      "id": 111,
+      "question": "Jak się nazywa błąd w norwerskiej przeglądarce?",
+      "answer": "Upiór w operze"
+    },
+    {
+      "id": 112,
+      "question": "Ulubiona drużyna frontendowców",
+      "answer": "Ajax Amsterdam"
+    },
+    {
+      "id": 113,
+      "question": "Co śpiewają go developerzy przez pracą",
+      "answer": "Wake me up before you go go"
+    },
+    {
+      "id": 114,
+      "question": "Wiecie co piekarz robi na siłowni?",
+      "answer": "Zakwasy"
+    },
+    {
+      "id": 115,
+      "question": "Jakich cukierków nie lubią developerzy?",
+      "answer": "Malaga"
+    },
+    {
+      "id": 116,
+      "question": "Dlaczego warto na siłownię chodzić we dwójkę?",
+      "answer": "Bo do sztanga trzeba dwojga"
+    },
+    {
+      "id": 117,
+      "question": "Jak sie nazywa mid-developer z Zakopanego?",
+      "answer": "regóral"
+    },
+    {
+      "id": 118,
+      "question": "Dlaczego pm znają się na napojach gazowanych?",
+      "answer": "bo codziennie robią calle"
+    },
+    {
+      "id": 119,
+      "question": "Co łączy zółwie ninja i wkurwionych ludzi na slacku?",
+      "answer": "wychodzą z kanału"
+    },
+    {
+      "id": 120,
+      "question": "Jak się nazywa developer, który ciągle robi sobię bekę?",
+      "answer": "Backendowiec"
+    },
+    {
+      "id": 121,
+      "question": "Wiecie jakiego rodzaju wykresu nie lubię kodzić?",
+      "answer": "Pie Chartów"
+    },
+    {
+      "id": 122,
+      "question": "Na jakiej stacji tankują devopsi?",
+      "answer": "Na Shellu"
+    },
+    {
+      "id": 123,
+      "question": "Ulubiona zupa Francuzów?",
+      "answer": "Bon Żurek"
+    },
+    {
+      "id": 124,
+      "question": "Mozzarella, mortadella, tarantella, ecco la per me",
+      "answer": "Zuppa Romana"
+    },
+    {
+      "id": 125,
+      "question": "A ile trwało najkrótsze zlecenie dla designera?",
+      "answer": "A dobe"
+    },
+    {
+      "id": 126,
+      "question": "Jak się nazywa najstarszy człowiek stojący przy garach?",
+      "answer": "Gary Oldman"
+    },
+    {
+      "id": 127,
+      "question": "Wiecie jakiej postaci z Mortal Combat najbardziej nie lubią YouTuberzy?",
+      "answer": "Sub Zero"
+    },
+    {
+      "id": 128,
+      "question": "Wiecie jak się nazywa najpopularniejszy web master na świecie?",
+      "answer": "Peter Parker"
+    },
+    {
+      "id": 129,
+      "question": "Dlaczego frontendowcy zawsze wyglądają tak młodo?",
+      "answer": "Bo robią dużo SPA"
+    },
+    {
+      "id": 130,
+      "question": "Wiecie jaki jest ulubiony film kotów?",
+      "answer": "W jak Wędeczka"
+    },
+    {
+      "id": 131,
+      "question": "Dlaczego devopsi kupują nabiał u Weroniki?",
+      "answer": "Bo lubią ser Wery"
+    },
+    {
+      "id": 132,
+      "question": "Ulubiona piosenka frontendowców?",
+      "answer": "Mój dom, w którym piszę od lat, mój dom, w którym płaczę nie raz, czy to znasz? to znasz?"
+    },
+    {
+      "id": 133,
+      "question": "Jak czesi mówią na niewielkie elementy w HTMLu?",
+      "answer": "maledivy"
+    },
+    {
+      "id": 134,
+      "question": "Jak ma na imię syn JavaScriptu?",
+      "answer": "JSON"
+    },
+    {
+      "id": 135,
+      "question": "Jak nazywamy sytuację, w której ktoś bardzo źle ostylował diva",
+      "answer": "diviacja"
+    },
+    {
+      "id": 136,
+      "question": "Co devopsi kupują na odpuście w licheniu?",
+      "answer": "devopsjonalja"
+    },
+    {
+      "id": 137,
+      "question": "Kanapka z dużą rybą i ogórkiem",
+      "answer": "orka na ogórze"
+    },
+    { "id": 138, "question": "Ulubiony samochód qa'ów", "answer": "buggati" },
+    {
+      "id": 139,
+      "question": "Jak wystraszyć react developera?",
+      "answer": "hookiem"
+    }
+  ]
+}

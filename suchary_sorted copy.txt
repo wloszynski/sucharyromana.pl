@@ -33,7 +33,7 @@ jaki jest ulubiony serial programistów? ; opowieści, skrypty
 wiecie co jest dla mnie najważniejsze w tworzeniu stron? ; józef expierience
 o której programista zaczyna pracę? ; od devontej
 jaki nadmorski kurort web developerzy lubią najbardziej? ; Łeba
-jaka jest ulubiona kolęda frontendowca? ; li li li li laj
+jaka jest ulubiona kolęda front-endowca? ; li li li li laj
 co śpiewa developer, który szuka błędu? ; chcę oglądać twoje logi, logi, logi, logi
 jaka jest ulubiona rasa psa frontendowca? ; border color
 jaka jest ulubiona ryba programisty? ; PSTRING
@@ -47,18 +47,18 @@ w jakim kraju są najbardziej doświadczenie developerzy? ; W meksyku, bo tam ka
 jaka metoda HTTP jest najczęście używana przez Wielką Nocą? ; POST
 najpopularniejsze zagadnienie informatyczne wśród drobiu? ; reKUREncja
 widzicie to, zobaczcie ; no to jest szczyt
-jaka jest ulubiona część ciała frontendowca? ; web
+jaka jest ulubiona część ciała front-endowca? ; web
 jak się nazywa udawany buziak? ; cmockup
-jaką chatę buduje frontendowiec? ; HTML
+jaką chatę buduje front-endowiec? ; HTML
 jaki jest najmniej lubiany superbohater programistów? ; refactor
-co najbardziej przeraża frontendowców? ; nawiedzony dom
+co najbardziej przeraża front-endowców? ; nawiedzony dom
 najbardziej pomocny bohater horrorów? ; debugiman
 ulubiona muzyka glonojadów? ; algo-rytmy
 ulubiona piosenka rails-rowców? ; ruby ruby ruby rydz
 ulubiony przebój servesslessowców? ; AWS lambada
 dlaczego psychiatrzy się znają na internecie? ; bo wiedzą jak działa łeb
 po czym poznać, że kod jest czysty? ; po tym że się myje
-ulubiony aktor frontendowców ; jquery
+ulubiony aktor front-endowców ; jquery
 zagadka. w internecie leje wodę. ; e-kran
 jaki jest mój ulubiony hook w reactcie? ; use-eff
 oglądam nowy serial ostatnio ; opowieści pamięci podręcznej
@@ -92,8 +92,8 @@ ulubiony reżyser kosmitów? ; Woody Alien
 wkurzona dziewczyna pyta programisty, co wybierasz wyjście do kina czy edytor kodu? ; A on mówi: IDE
 ulubiona konstelacja Janusza i Grażyny? ; Pas Oniona
 ulubiony framework jaszczurek? ; Gadsby
-gdzie frontendowcy spędzają wczasy? ; W SPA
-ostatnio mówiłem, że frontendowcy spędzają czasy w spa; To ci bogatsi, a ci biedniejsi w dormitorium
+gdzie front-endowcy spędzają wczasy? ; W SPA
+ostatnio mówiłem, że front-endowcy spędzają czasy w spa; To ci bogatsi, a ci biedniejsi w dormitorium
 kto jest największym przeciwnikiem używania constów? ; Constantyn
 wiecie kto przetwarzał dane osobowe w Śródziemiu? ; Rodo Baggins
 do jakiego dormitorium uczniowie hogwardu kierowani są na kwarantannę ; Do grypindoru
@@ -126,10 +126,10 @@ a ile trwało najkrótsze zlecenie dla designera? ; A dobe
 jak się nazywa najstarszy człowiek stojący przy garach? ; Gary Oldman
 wiecie jakiej postaci z Mortal Combat najbardziej nie lubią YouTuberzy? ; Sub Zero
 wiecie jak się nazywa najpopularniejszy web master na świecie? ; Peter Parker
-dlaczego frontendowcy zawsze wyglądają tak młodo? ; Bo robią dużo SPA
+dlaczego front-endowcy zawsze wyglądają tak młodo? ; Bo robią dużo SPA
 wiecie jaki jest ulubiony film kotów? ; W jak Wędeczka
 dlaczego devopsi kupują nabiał u Weroniki? ; Bo lubią ser Wery
-ulubiona piosenka frontendowców? ; Mój dom, w którym piszę od lat, mój dom, w którym płaczę nie raz, czy to znasz? to znasz?
+ulubiona piosenka front-endowców? ; Mój dom, w którym piszę od lat, mój dom, w którym płaczę nie raz, czy to znasz? to znasz?
 jak czesi mówią na niewielkie elementy w HTMLu? ; maledivy
 jak ma na imię syn JavaScriptu? ; JSON
 jak nazywamy sytuację, w której ktoś bardzo źle ostylował diva ; diviacja
