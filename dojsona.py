@@ -19,10 +19,11 @@ with open("suchary_sorted.txt", "r") as fp:
     lines = fp.readlines()
     for line in lines:
         sucharek = line.split(';')
-        question = sucharek[0]
+        question = str(sucharek[0]).strip()
         question = question[0].upper() + (question[1:])
-        answer = (sucharek[1].replace('\n', ''))
-        such = f'"id":{id},"question": "{str(question).strip()}", "answer": "{str(answer).strip()}"'
+        answer = str((sucharek[1].replace('\n', ''))).strip()
+        answer = answer[0].upper() + answer[1:]
+        such = f'"id":{id},"question": "{question}", "answer": "{answer}"'
 
 
         if (id!= len(lines)):

@@ -7,22 +7,22 @@
     },
     {
       "id": 2,
-      "question": "A wiecie o co prosi programista w sklepie z pościelą?",
-      "answer": "o code review"
+      "question": "Co prosi programista w sklepie z pościelą?",
+      "answer": "O code review"
     },
     {
       "id": 3,
       "question": "Co robi komponent, który zmienia DOM?",
-      "answer": "remount"
+      "answer": "Remount"
     },
     {
       "id": 4,
-      "question": "A wiecie jaka jest ulubiona zupa google chrome'a?",
+      "question": "Jaka jest ulubiona zupa google chrome'a?",
       "answer": "RAMen"
     },
     {
       "id": 5,
-      "question": "A kto w zespole pamięta wszystkie wersje piosenek?",
+      "question": "Kto w zespole pamięta wszystkie wersje piosenek?",
       "answer": "GITarzysta"
     },
     {
@@ -33,37 +33,37 @@
     {
       "id": 7,
       "question": "Dlaczego backend w javascripcie jest niestabilny?",
-      "answer": "bo stoi na jednym nodzie"
+      "answer": "Bo stoi na jednym nodzie"
     },
     {
       "id": 8,
       "question": "Co robi scrum master po sprincie?",
-      "answer": "myje jiry"
+      "answer": "Myje jiry"
     },
     {
       "id": 9,
       "question": "Kogo nigdy nie słychać na wideo konferencjach?",
-      "answer": "zmutowanych żółwi ninja"
+      "answer": "Zmutowanych żółwi ninja"
     },
     {
       "id": 10,
       "question": "Jakie polecenie w git'cie programiści kochaja najbardziej?",
-      "answer": "git majonez"
+      "answer": "Git majonez"
     },
     {
       "id": 11,
       "question": "Dlaczego frontendowcom najłatwiej zamówić jedzenie z mc donalda?",
-      "answer": "bo mają hamburger menu"
+      "answer": "Bo mają hamburger menu"
     },
     {
       "id": 12,
       "question": "Co robi nastoletni programista, gdy mama nie patrzy",
-      "answer": "pulluje mastera"
+      "answer": "Pulluje mastera"
     },
     {
       "id": 13,
       "question": "Dlaczego nowa składnia jsa została doceniona przez środowisko łuczników",
-      "answer": "bo prowadziła arrow functions"
+      "answer": "Bo prowadziła arrow functions"
     },
     {
       "id": 14,
@@ -73,102 +73,102 @@
     {
       "id": 15,
       "question": "Dlaczego developer jak odpala inspektor kodu, to puka w ekran?",
-      "answer": "bo wchodzi do DOMu"
+      "answer": "Bo wchodzi do DOMu"
     },
     {
       "id": 16,
       "question": "Dlaczego nauczyciele to kiepscy programiści?",
-      "answer": "bo korzystają tylko z tablic"
+      "answer": "Bo korzystają tylko z tablic"
     },
     {
       "id": 17,
       "question": "Dlaczego frontendowiec wchodzi do opery?",
-      "answer": "żeby pooglądać divy"
+      "answer": "Żeby pooglądać divy"
     },
     {
       "id": 18,
       "question": "Jak się nazywa stolica wszystkich błędów?",
-      "answer": "bugdat"
+      "answer": "Bugdad"
     },
     {
       "id": 19,
-      "question": "Wiecie kim byłaby fava, gdyby pracowała w IT?",
-      "answer": "devopsem"
+      "question": "Kim byłaby fava, gdyby pracowała w IT?",
+      "answer": "DevoPSEM"
     },
     {
       "id": 20,
-      "question": "Wiecie kto jest ulubionym królem frontendowców?",
+      "question": "Kto jest ulubionym królem frontendowców?",
       "answer": "August III SASS"
     },
     {
       "id": 21,
-      "question": "Wiecie jaki jest ulubiony pies frontendowca?",
+      "question": "Jaki jest ulubiony pies frontendowca?",
       "answer": "<span>iel"
     },
     {
       "id": 22,
       "question": "Jaki jest ulubiony język programowania płazów?",
-      "answer": "żabascript"
+      "answer": "ŻabaScript"
     },
     {
       "id": 23,
-      "question": "Wiecie jaki jest zorientowany obiektowo sposób na zarabianie pieniędzy?",
-      "answer": "dziedziczenie"
+      "question": "Jaki jest zorientowany obiektowo sposób na zarabianie pieniędzy?",
+      "answer": "Dziedziczenie"
     },
     {
       "id": 24,
       "question": "Jaka jest ulubiona część lotniska dla programisty?",
-      "answer": "terminal"
+      "answer": "Terminal"
     },
     {
       "id": 25,
       "question": "Co frontendowcowi sterczy z nosa?",
-      "answer": "babel"
+      "answer": "Babel"
     },
     {
       "id": 26,
       "question": "Jak się nazywa błąd związany z wyświetlaniem elementów w przeglądarce microsoftu?",
-      "answer": "edge case"
+      "answer": "Edge case"
     },
     {
       "id": 27,
       "question": "Co informatyk ma długiego i mowią, że nie da się tego złamać?",
-      "answer": "hasło do kompa"
+      "answer": "Hasło do kompa"
     },
     {
       "id": 28,
       "question": "Co mówi ksiądz na ślubie informatyka?",
-      "answer": "pobieranie zakończone"
+      "answer": "Pobieranie zakończone"
     },
     {
       "id": 29,
       "question": "Co bierze informatyk na turniej rycerski?",
-      "answer": "kopię zapasową"
+      "answer": "Kopię zapasową"
     },
     {
       "id": 30,
       "question": "Jaki jest mój ulubiony element na stronach internetowych?",
-      "answer": "favicona"
+      "answer": "Favicona"
     },
     {
       "id": 31,
       "question": "Przy czym najczęściej programista pomaga w domu?",
-      "answer": "przy parsowaniu"
+      "answer": "Przy parsowaniu"
     },
     {
       "id": 32,
       "question": "Jaki jest ulubiony serial programistów?",
-      "answer": "opowieści, skrypty"
+      "answer": "Opowieści, skrypty"
     },
     {
       "id": 33,
-      "question": "Wiecie co jest dla mnie najważniejsze w tworzeniu stron?",
-      "answer": "józef expierience"
+      "question": "Co jest dla mnie najważniejsze w tworzeniu stron?",
+      "answer": "Józef expierience"
     },
     {
       "id": 34,
       "question": "O której programista zaczyna pracę?",
-      "answer": "od devontej"
+      "answer": "Od DEViontej"
     },
     {
       "id": 35,
@@ -178,17 +178,17 @@
     {
       "id": 36,
       "question": "Jaka jest ulubiona kolęda frontendowca?",
-      "answer": "li li li li laj"
+      "answer": "Li li li li laj"
     },
     {
       "id": 37,
       "question": "Co śpiewa developer, który szuka błędu?",
-      "answer": "chcę oglądać twoje logi, logi, logi, logi"
+      "answer": "Chcę oglądać twoje logi, logi, logi, logi"
     },
     {
       "id": 38,
       "question": "Jaka jest ulubiona rasa psa frontendowca?",
-      "answer": "border color"
+      "answer": "Border color"
     },
     {
       "id": 39,
@@ -219,12 +219,12 @@
     {
       "id": 45,
       "question": "Jaka jest ulubiona maść administratorów?",
-      "answer": "sudocrem"
+      "answer": "Sudocrem"
     },
     {
       "id": 46,
       "question": "W jakim kraju są najbardziej doświadczenie developerzy?",
-      "answer": "W meksyku, bo tam każdy to senior"
+      "answer": "W meksyku, bo tam każdy to Señor"
     },
     {
       "id": 47,
@@ -234,22 +234,22 @@
     {
       "id": 48,
       "question": "Najpopularniejsze zagadnienie informatyczne wśród drobiu?",
-      "answer": "reKUREncja"
+      "answer": "ReKUREncja"
     },
     {
       "id": 49,
       "question": "Widzicie to, zobaczcie",
-      "answer": "no to jest szczyt"
+      "answer": "No to jest szczyt"
     },
     {
       "id": 50,
       "question": "Jaka jest ulubiona część ciała frontendowca?",
-      "answer": "web"
+      "answer": "Web"
     },
     {
       "id": 51,
       "question": "Jak się nazywa udawany buziak?",
-      "answer": "cmockup"
+      "answer": "Cmockup"
     },
     {
       "id": 52,
@@ -259,27 +259,27 @@
     {
       "id": 53,
       "question": "Jaki jest najmniej lubiany superbohater programistów?",
-      "answer": "refactor"
+      "answer": "RefacThor"
     },
     {
       "id": 54,
       "question": "Co najbardziej przeraża frontendowców?",
-      "answer": "nawiedzony dom"
+      "answer": "Nawiedzony dom"
     },
     {
       "id": 55,
       "question": "Najbardziej pomocny bohater horrorów?",
-      "answer": "debugiman"
+      "answer": "The Boogie Man"
     },
     {
       "id": 56,
       "question": "Ulubiona muzyka glonojadów?",
-      "answer": "algo-rytmy"
+      "answer": "Algo-rytmy"
     },
     {
       "id": 57,
       "question": "Ulubiona piosenka rails-rowców?",
-      "answer": "ruby ruby ruby rydz"
+      "answer": "Ruby ruby ruby rydz"
     },
     {
       "id": 58,
@@ -289,37 +289,37 @@
     {
       "id": 59,
       "question": "Dlaczego psychiatrzy się znają na internecie?",
-      "answer": "bo wiedzą jak działa łeb"
+      "answer": "Bo wiedzą jak działa łeb"
     },
     {
       "id": 60,
       "question": "Po czym poznać, że kod jest czysty?",
-      "answer": "po tym że się myje"
+      "answer": "Po tym że się myje"
     },
     {
       "id": 61,
       "question": "Ulubiony aktor frontendowców",
-      "answer": "jquery"
+      "answer": "Jquery"
     },
     {
       "id": 62,
       "question": "Zagadka. w internecie leje wodę.",
-      "answer": "e-kran"
+      "answer": "E-kran"
     },
     {
       "id": 63,
       "question": "Jaki jest mój ulubiony hook w reactcie?",
-      "answer": "use-eff"
+      "answer": "Use-eff"
     },
     {
       "id": 64,
       "question": "Oglądam nowy serial ostatnio",
-      "answer": "opowieści pamięci podręcznej"
+      "answer": "Opowieści pamięci podręcznej"
     },
     {
       "id": 65,
       "question": "Ulubiony sport użytkownika gita?",
-      "answer": "squash"
+      "answer": "Squash"
     },
     {
       "id": 66,
@@ -329,7 +329,7 @@
     {
       "id": 67,
       "question": "Wiecie jaki jest teraz problem na frontendzie, że każda aplikacja ma być spa, uparli się",
-      "answer": "ale chyba znalazłem u Anii w szafce lekarstwo na to - NO SPA"
+      "answer": "Ale chyba znalazłem u Anii w szafce lekarstwo na to - NO SPA"
     },
     {
       "id": 68,
@@ -339,7 +339,7 @@
     {
       "id": 69,
       "question": "Co tańczy developer naprawiający błędy?",
-      "answer": "woogie boogie"
+      "answer": "Woogie boogie"
     },
     {
       "id": 70,
@@ -354,7 +354,7 @@
     {
       "id": 72,
       "question": "Co programista ma wspólnego z małpą?",
-      "answer": "oboje pracują na branchach"
+      "answer": "Oboje pracują na branchach"
     },
     {
       "id": 73,
@@ -374,7 +374,7 @@
     {
       "id": 76,
       "question": "Jak nazywałby się dzisiaj various manx?",
-      "answer": "letious manx"
+      "answer": "Letious manx"
     },
     {
       "id": 77,
@@ -389,7 +389,7 @@
     {
       "id": 79,
       "question": "Co programiści gotują na obiad?",
-      "answer": "bURLial"
+      "answer": "BURLial"
     },
     {
       "id": 80,
@@ -399,7 +399,7 @@
     {
       "id": 81,
       "question": "W którym kraju programują najgorzej?",
-      "answer": "we Włoszech, bo ciągle piszą spaghetti"
+      "answer": "We Włoszech, bo ciągle piszą spaghetti"
     },
     {
       "id": 82,
@@ -434,17 +434,17 @@
     {
       "id": 88,
       "question": "Co mówi właściciel sklepu z artylerią?",
-      "answer": "u mnie działa"
+      "answer": "U mnie działa"
     },
     {
       "id": 89,
       "question": "Wymyśliłem ostatnio nowy sport, boks z elementami jogi",
-      "answer": "nazywa się flexbox"
+      "answer": "Nazywa się flexbox"
     },
     {
       "id": 90,
       "question": "Jak psy coś potrafią to każdy wie, że to jest ich know-how",
-      "answer": "ale mało kto wie, że koty mają swoje know-meow"
+      "answer": "Ale mało kto wie, że koty mają swoje know-meow"
     },
     {
       "id": 91,
@@ -499,31 +499,31 @@
     {
       "id": 101,
       "question": "Ulubiony film sys-adminów?",
-      "answer": "terminal"
+      "answer": "Terminal"
     },
     {
       "id": 102,
       "question": "Ulubiona bajka project managerów?",
-      "answer": "gdzie jest demo?"
+      "answer": "Gdzie jest demo?"
     },
     {
       "id": 103,
-      "question": "Wiecie co łączy programistów i policjantów?",
-      "answer": "komendy"
+      "question": "Co łączy programistów i policjantów?",
+      "answer": "Komendy"
     },
     {
       "id": 104,
-      "question": "Wiecie co developer ma po lewej stronie klatki piersiowej?",
-      "answer": "s r c"
+      "question": "Co developer ma po lewej stronie klatki piersiowej?",
+      "answer": "S r c"
     },
     {
       "id": 105,
       "question": "Programista został skazany, trafił do więzenia i po paru dniach pobytu pisze do żony",
-      "answer": "nie jest tak źle, przynajmniej są klawisze"
+      "answer": "Nie jest tak źle, przynajmniej są klawisze"
     },
     {
       "id": 106,
-      "question": "Wiecie jaką bajkę najbardziej lubiłem w dzieciństwie?",
+      "question": "Jaką bajkę najbardziej lubiłem w dzieciństwie?",
       "answer": "Rumca.JS"
     },
     {
@@ -533,8 +533,8 @@
     },
     {
       "id": 108,
-      "question": "Wiecie co robią developerzy kiedy potrzebują czułości?",
-      "answer": "zwiększają czułość myszki"
+      "question": "Co robią developerzy kiedy potrzebują czułości?",
+      "answer": "Zwiększają czułość myszki"
     },
     {
       "id": 109,
@@ -579,17 +579,17 @@
     {
       "id": 117,
       "question": "Jak sie nazywa mid-developer z Zakopanego?",
-      "answer": "regóral"
+      "answer": "Regóral"
     },
     {
       "id": 118,
       "question": "Dlaczego pm znają się na napojach gazowanych?",
-      "answer": "bo codziennie robią calle"
+      "answer": "Bo codziennie robią calle"
     },
     {
       "id": 119,
       "question": "Co łączy zółwie ninja i wkurwionych ludzi na slacku?",
-      "answer": "wychodzą z kanału"
+      "answer": "Wychodzą z kanału"
     },
     {
       "id": 120,
@@ -598,7 +598,7 @@
     },
     {
       "id": 121,
-      "question": "Wiecie jakiego rodzaju wykresu nie lubię kodzić?",
+      "question": "Jakiego rodzaju wykresu nie lubię kodzić?",
       "answer": "Pie Chartów"
     },
     {
@@ -628,12 +628,12 @@
     },
     {
       "id": 127,
-      "question": "Wiecie jakiej postaci z Mortal Combat najbardziej nie lubią YouTuberzy?",
+      "question": "Jakiej postaci z Mortal Combat najbardziej nie lubią YouTuberzy?",
       "answer": "Sub Zero"
     },
     {
       "id": 128,
-      "question": "Wiecie jak się nazywa najpopularniejszy web master na świecie?",
+      "question": "Jak się nazywa najpopularniejszy web master na świecie?",
       "answer": "Peter Parker"
     },
     {
@@ -643,7 +643,7 @@
     },
     {
       "id": 130,
-      "question": "Wiecie jaki jest ulubiony film kotów?",
+      "question": "Jaki jest ulubiony film kotów?",
       "answer": "W jak Wędeczka"
     },
     {
@@ -659,7 +659,7 @@
     {
       "id": 133,
       "question": "Jak czesi mówią na niewielkie elementy w HTMLu?",
-      "answer": "maledivy"
+      "answer": "Maledivy"
     },
     {
       "id": 134,
@@ -669,23 +669,23 @@
     {
       "id": 135,
       "question": "Jak nazywamy sytuację, w której ktoś bardzo źle ostylował diva",
-      "answer": "diviacja"
+      "answer": "Diviacja"
     },
     {
       "id": 136,
       "question": "Co devopsi kupują na odpuście w licheniu?",
-      "answer": "devopsjonalja"
+      "answer": "Devopsjonalja"
     },
     {
       "id": 137,
       "question": "Kanapka z dużą rybą i ogórkiem",
-      "answer": "orka na ogórze"
+      "answer": "Orka na ogórze"
     },
-    { "id": 138, "question": "Ulubiony samochód qa'ów", "answer": "buggati" },
+    { "id": 138, "question": "Ulubiony samochód qa'ów", "answer": "Buggati" },
     {
       "id": 139,
       "question": "Jak wystraszyć react developera?",
-      "answer": "hookiem"
+      "answer": "Hookiem"
     }
   ]
 }
